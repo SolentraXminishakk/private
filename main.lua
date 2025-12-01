@@ -223,16 +223,6 @@ Converted["_TextLabel"].Position = UDim2.new(0.0186757222, 0, 0.313725501, 0)
 Converted["_TextLabel"].Size = UDim2.new(0, 62, 0, 19)
 Converted["_TextLabel"].Parent = Converted["_top"]
 
-Converted["_Close"].Image = "rbxassetid://4773247381"
-Converted["_Close"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Converted["_Close"].BackgroundTransparency = 1
-Converted["_Close"].BorderColor3 = Color3.fromRGB(0, 0, 0)
-Converted["_Close"].BorderSizePixel = 0
-Converted["_Close"].Position = UDim2.new(0.933786094, 0, 0.235294119, 0)
-Converted["_Close"].Size = UDim2.new(0, 27, 0, 27)
-Converted["_Close"].Name = "Close"
-Converted["_Close"].Parent = Converted["_top"]
-
 -- Fake Module Scripts:
 
 local fake_module_scripts = {}
