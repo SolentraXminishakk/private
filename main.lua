@@ -518,9 +518,9 @@ local function LNUCG_fake_script() -- Fake Script: StarterGui.root.autoload
         return req(obj)
     end
 
-	game:GetService("Players").LocalPlayer.OnTeleport:Connect(function(State)
-		queueteleport("")
-	end)
+game:GetService("Players").LocalPlayer.OnTeleport:Connect(function(State)
+	queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/SolentraXminishakk/private/refs/heads/main/main.lua'))()")
+end)
 end
 
 coroutine.wrap(HBMM_fake_script)()
