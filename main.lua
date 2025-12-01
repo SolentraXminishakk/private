@@ -224,7 +224,6 @@ Converted["_TextLabel"].Size = UDim2.new(0, 62, 0, 19)
 Converted["_TextLabel"].Parent = Converted["_top"]
 
 Converted["_Close"].Image = "rbxassetid://4773247381"
-Converted["_Close"].ImageContent = Content
 Converted["_Close"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Close"].BackgroundTransparency = 1
 Converted["_Close"].BorderColor3 = Color3.fromRGB(0, 0, 0)
